@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">🙋‍♂️ Hey! What's up</span>
                 <h1>{`Welcome, I'm Arnab`} <br/> <span style={{color:"yellow"}} className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>ALways wondered how web applications worked, especially in my childhood when INTERNET was a new thing. Fortunate enough to get the oppurtunity to learn, design and develop web applications. Just enjoying!</p>
+                  <p>Always wondered how web applications worked, especially in my childhood when INTERNET was a new thing. Fortunate enough to get the oppurtunity to learn, design and develop web applications. Just enjoying!</p>
 
                   <a href="https://1drv.ms/b/s!AqqsebbfX9xQdrAtVCEG9hP_veo?e=nMEvYq" target="_blank"><button style={{backgroundColor:"white", color:"black", padding:"1rem", borderRadius:"20px"}} onClick={() => console.log('connect')}>View Resume <ArrowRightCircle size={25} /></button></a>
               </div>}
