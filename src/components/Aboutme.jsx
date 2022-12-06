@@ -15,7 +15,7 @@ const Aboutme = () => {
         style={{
           width: "65%",
           margin: "auto",
-          padding: "5rem",
+          marginBottom: "5rem",
           alignItems: "center",
           justifyContent: "center",
         }}

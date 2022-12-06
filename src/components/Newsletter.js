@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Col, Row, Alert } from "react-bootstrap";
+import "../../src/App.css";
 
 export const Newsletter = ({ status, message, onValidated }) => {
   const [email, setEmail] = useState('');
@@ -32,10 +33,10 @@ export const Newsletter = ({ status, message, onValidated }) => {
               {status === 'success' && <Alert variant="success">{message}</Alert>}
             </Col>
             <Col md={6} xl={7}>
-              <form onSubmit={handleSubmit}>
+              <form className="subscription-above-footer" onSubmit={handleSubmit}>
                 <div className="new-email-bx">
                   <input value={email} type="email" onChange={(e) => setEmail(e.target.value)} placeholder="Email Address" />
-                  <button type="submit">Submit</button>
+                  <button className="submit-subscription" type="submit">Submit</button>
                 </div>
               </form>
             </Col>

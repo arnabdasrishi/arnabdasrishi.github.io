@@ -556,6 +556,16 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
 }
 
+@media screen and (max-width: 1080px) {
+  .subscription-above-footer .new-email-bx{
+    display: inline-block;
+  }
+  .submit-subscription {
+    margin-left: 20%;
+    width: 10%;
+  }
+}
+
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;
