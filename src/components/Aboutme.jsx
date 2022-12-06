@@ -31,7 +31,7 @@ const Aboutme = () => {
 
         <div className="right-aboutme-section-desc">
           <p>
-            Back in 2006, in an cyber cafe, I was wondering looking at the
+            Back in 2006, in a cyber cafe, I was wondering looking at the
             internet, how beautifully the web pages provided information and
             there was no limit of resources, what ever you think of it was
             presented in front of you with a click of a button.
