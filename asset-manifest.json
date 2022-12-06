@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fdfd852.css",
+    "main.js": "/static/js/main.e7e44021.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.b0d9ed29c583a975a233.png",
+    "static/media/project-img3.png": "/static/media/project-img3.dce295793c46404ddb86.png",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img1.png": "/static/media/project-img1.a22bcf7f66e5bffbd618.png",
+    "static/media/project-img2.png": "/static/media/project-img2.2af044f3f73c697e9d02.png",
+    "static/media/edit1.png": "/static/media/edit1.eadfa365d3c451995e97.png",
+    "static/media/project-img4.png": "/static/media/project-img4.6c0ef6ff289cb05973cc.png",
+    "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo.png": "/static/media/logo.bb1b89720a7921c60f88.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.7fdfd852.css.map": "/static/css/main.7fdfd852.css.map",
+    "main.e7e44021.js.map": "/static/js/main.e7e44021.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fdfd852.css",
+    "static/js/main.e7e44021.js"
+  ]
+}
