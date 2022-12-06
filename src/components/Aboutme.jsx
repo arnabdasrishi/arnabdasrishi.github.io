@@ -20,7 +20,7 @@ const Aboutme = () => {
           justifyContent: "center",
         }}
       >
-        <div className="left-aboutme-section" style={{ textAlign: "center" }}>
+        <div className="left-aboutme-section" style={{ textAlign: "center", paddingTop:"2rem" }}>
           <h1>About Me</h1>
           <img
             src={edit1}
@@ -29,7 +29,7 @@ const Aboutme = () => {
           />
         </div>
 
-        <div className="right-aboutme-section-desc">
+        <div className="right-aboutme-section-desc" style={{paddingBottom:"2rem"}}>
           <p>
             Back in 2006, in an cyber cafe, I was wondering looking at the
             internet, how beautifully the web pages provided information and
