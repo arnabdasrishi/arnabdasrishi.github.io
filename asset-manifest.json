@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4f4f8f59.css",
-    "main.js": "/static/js/main.879246de.js",
+    "main.js": "/static/js/main.db39f7dc.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/banner-bg.png": "/static/media/banner-bg.0cb0791930a331a99056.png",
     "static/media/project-img3.png": "/static/media/project-img3.dce295793c46404ddb86.png",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/project-img1.png": "/static/media/project-img1.a22bcf7f66e5bffbd618.png",
     "static/media/project-img2.png": "/static/media/project-img2.2af044f3f73c697e9d02.png",
+    "static/media/Arnab-Das-Resume.pdf": "/static/media/Arnab-Das-Resume.46cb85a6ab30a765855f.pdf",
     "static/media/edit1.png": "/static/media/edit1.eadfa365d3c451995e97.png",
     "static/media/project-img4.png": "/static/media/project-img4.6c0ef6ff289cb05973cc.png",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
@@ -25,11 +26,11 @@
     "index.html": "/index.html",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.4f4f8f59.css.map": "/static/css/main.4f4f8f59.css.map",
-    "main.879246de.js.map": "/static/js/main.879246de.js.map",
+    "main.db39f7dc.js.map": "/static/js/main.db39f7dc.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f4f8f59.css",
-    "static/js/main.879246de.js"
+    "static/js/main.db39f7dc.js"
   ]
 }
